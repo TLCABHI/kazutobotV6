@@ -15,9 +15,9 @@ PERJUALKAN!!
 ┃⊱❥ *V 6.1*
 ┃⊱❥ *http://wa.me/6281316105119*
 ┃⊱❥ *Achillboyy*             
-┃⊱❥ *PERHATIKAN TANDA²YG DI BAWAH INI ✅(BISA DIGUNAKAN) ❌(TIDAK BISA DI GUNAKAN) 👀(PERBAIKAN)
-┃⊱❥ *BARU SAJA DI UPDATE!!
-┃⊱❥ *TRAKHIR DI UPDATE (01-16-2021/20:46)
+┃⊱❥ *PERHATIKAN TANDA²YG DI BAWAH INI ✅(BISA DIGUNAKAN) ❌(TIDAK BISA DI GUNAKAN) 👀(PERBAIKAN)*
+┃⊱❥ *BARU SAJA DI UPDATE!!*
+┃⊱❥ *TRAKHIR DI UPDATE (01-16*-2021/20:46)*
 ┣━━°─⊱ ❬ *TENTANG BOT* ❭ °━━┓
 ┃
 ┣⊱❥ *${prefix}info*
@@ -51,7 +51,7 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}walpaperhd* *PERBAIKAN*
 ┣⊱❥ *${prefix}randomcat* *FAILED❌*
 ┣⊱❥ *${prefix}joox* *PERBAIKAN*
-┣⊱❥ *${prefix}inu* *PERBAIKAN
+┣⊱❥ *${prefix}inu* *PERBAIKAN*
 ┣⊱❥ *${prefix}elang* *SUCCES✅*
 ┣⊱❥ *${prefix}unta* *SUCCES✅*
 ┣⊱❥ *${prefix}anjing* *SUCCES✅*
@@ -249,10 +249,32 @@ PERJUALKAN!!
 ⠀⠀⠀⠀⣿⣧⠀⠀⠀⢀⣿⠃⣿⣇⠀⢀⣸⡯⠀⠀
 ⠀⠀⠀⠀⠹⢿⣶⣶⣶⠿⠃⠀⠈⠛⠛⠛⠛⠁⠀⠀
 
+┣━━━━ ─⊱ *❬ (SPONGBOB) ❭* °━━━━━━⊱
+. ___________________
+▕╮╭┻┻╮╭┻┻╮╭▕╮╲
+▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏
+▕╭┻┻┻┛┗┻┻┛   ▕  ╰▏
+▕╰━━━┓┈┈┈╭╮▕╭╮▏
+▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏
+▕╰╯┈┗┛┗┛┈╭╮▕╮┈▏
+┣━━━━ ─⊱ *❬ (hewan apa hayo:v) ❭* °━━━━━━⊱
+┊┊╭━━━╮┊┊╭━━━╮┊┊
+┊┊┃┈▋▋┃┊┊┃▋▋┈┃┊┊
+┏━╯┈┈┈◣┊┊◢┈┈┈╰━┓
+┃┗━╯┈┈┃┊┊┃┈┈╰━┛┃
+╰━┳━┳━╯┊┊╰━┳━┳━╯
+━━┻━┻━━━━━━┻━┻━━
+╭━╮
+◢╰╰┓
+╰┳┳╯
 
-
-
-
+∴∴∴︴︴︴︴︴
+∴∴◤▔▔▔▔◥❚❘⊢╮
+∴∴▉▒▒▒▒▒▉❘﹍〡
+∴∴▇▒▒▒▒▒▇❘⊢╯
+∴∴◥▇▇▇▇◤
+∴◥▇▇▇▇▇▇◤
+◒𝕐𝕠𝕜🄽🄶🄾🄿🄸🅑🅞🅢🅚🅤◒
 
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃ ❬ *POWERED BY SAKURA-BOT* ❭
