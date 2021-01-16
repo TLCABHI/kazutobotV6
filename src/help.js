@@ -9,7 +9,7 @@ const help = (prefix) => {
 ●⧐NO KECOT!
 ●⧐BOT GRATIS!TDK BOLE DI
 PERJUALKAN!!
-┣━━━━°❀ *❬ ABOUT ❭* ❀°━━━━━━┛
+┣━━━━°─⊱ *❬ ABOUT ❭* °━━━━━━┛
 ┃
 ┃⊱❥ *SAKURA-BOT*
 ┃⊱❥ *V 6.1*
