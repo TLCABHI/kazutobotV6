@@ -17,6 +17,7 @@ PERJUALKAN!!
 ┃⊱❥ *Achillboyy*             
 ┃⊱❥ *PERHATIKAN TANDA²YG DI BAWAH INI ✅(BISA DIGUNAKAN) ❌(TIDAK BISA DI GUNAKAN) 👀(PERBAIKAN)
 ┃⊱❥ *BARU SAJA DI UPDATE!!
+┃⊱❥ *TRAKHIR DI UPDATE (01-16-2021/20:46)
 ┣━━°─⊱ ❬ *TENTANG BOT* ❭ °━━┓
 ┃
 ┣⊱❥ *${prefix}info*
