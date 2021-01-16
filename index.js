@@ -108,7 +108,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `SAYONARAA... @${num.split('@')[0]}👋* \n_Hati-Hati Dijalan, Kalo Balik Nitip Gorengan Ya_`
+				teks = `SAYONARAA... @${num.split('@')[0]}👋* \n_Hati-Hati Dijalan, Kalo Balik Nitip bakso,somay,batagor,nasi uduk,sate xixiix:')_`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -145,7 +145,7 @@ async function starts() {
 			client.chatRead (from)
 
 			mess = {
-				wait: '❬ WAIT ❭* _Sedang dalam proses!!*...⏳_',
+				wait: '❬ ❗WAIT ❭* _sedang di proscesing!*...⏳_',
 				success: '*❬ SUCCESS ❭* _Sudah jadi kak..._',
 				error: {
 					stick: '*Gagal, terjadi kesalahan saat mengkonversi gambar ke sticker*',
@@ -163,7 +163,7 @@ async function starts() {
 			const botNumber = client.user.jid
 			const ownerNumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
 			const adminbotnumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
-			const frendsowner = ["6289637595990@s.whatsapp.net"] // GAUSAH DIGANTI!!!
+			const frendsowner = ["6281316105119@s.whatsapp.net"] // GAUSAH DIGANTI!!!
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -353,7 +353,7 @@ async function starts() {
                     costum(pesan, isi, pesan2)
                     break
                 case 'fakereplay':
-                   client.reply(from, 'ange mas', 'mending lari', "0823-877101916")
+                   client.reply(from, 'ange mas', 'mending lari', "0813-16105119")
                    break
                 case 'but':
                     client.reply(from, 'asw', Message.Type.text)
@@ -823,7 +823,7 @@ async function starts() {
                          contextInfo: {mentionedJid: [nomor]},
                      }
                     client.sendMessage('6281316105119@s.whatsapp.net', options, text, {quoted: mek})
-                    reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
+                    reply('Masalah telah di laporkan ke owner BOT🤗.')
                     break
                 case 'request':
                      const cfrr = body.slice(8)
@@ -836,7 +836,7 @@ async function starts() {
                          contextInfo: {mentionedJid: [nomor]},
                      }
                     client.sendMessage('6281316105119@s.whatsapp.net', options, text, {quoted: mek})
-                    reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
+                    reply('REQUEST ANDA TELAH SAMPAI ke owner BOT🤗.')
                     break
 				case 'meme':
 					meme = await kagApi.memes()
@@ -866,7 +866,8 @@ async function starts() {
 					break
 			    case 'nekonime':
 				    try {
-						res = await fetchJson(`https://tobz-api.herokuapp.com/api/nekonime`, {method: 'get'})
+						res = await fetchJson(`https://nekonime.stream/`)
+`, {method: 'get'})
 						buffer = await getBuffer(res.result)
 						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Ingat! Cintai nekonime'})
 					} catch (e) {
@@ -940,9 +941,9 @@ async function starts() {
 					icon = await getBuffer(anu.icon)
 					client.sendMessage(from, icon, image, {quoted: mek})
 					break
-			    case 'randomanime':
+			    case 'randomanime':https://randomanimepicker.web.app/
 				    try {
-						res = await fetchJson(`https://tobz-api.herokuapp.com/api/randomanime`, {method: 'get'})
+						res = await fetchJson(` {method: 'get'})
 						buffer = await getBuffer(res.result)
 						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'ni randomanime!'})
 					} catch (e) {
