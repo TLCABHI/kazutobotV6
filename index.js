@@ -34,7 +34,7 @@ const adminNumber = JSON.parse(fs.readFileSync('./src/admin.json'))
 const anime = JSON.parse(fs.readFileSync('./src/anime.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN ASU!?
-            + 'VERSION:3.0\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
+            + 'VERSION:6.1\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
             + 'FN:Achill Admin\n' // NAMA OWNER BOT
             + 'ORG:Creator SAKURA-BOT;\n' // KASIH CREDITS GUA AKMAL CAPY SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=6281316105119:+62 813-1610-5119\n' // GANTI NOMOR LU
