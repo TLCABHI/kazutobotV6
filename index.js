@@ -2,7 +2,7 @@
 * Om mau ngapain om, jangan om...
 * Hayo mau ngapainn
 * Jangan diganti kecuali yg gua bolehin!!!
-* By @akmalokz
+* By @achillboyy._
 * TQTO ada di paling bawah!!!
 * cari report sama request ganti nomor lu!!!
 */
@@ -35,9 +35,9 @@ const anime = JSON.parse(fs.readFileSync('./src/anime.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN ASU!?
             + 'VERSION:3.0\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
-            + 'FN:Akmal Admin\n' // NAMA OWNER BOT
-            + 'ORG:Creator HARUKA-BOT;\n' // KASIH CREDITS GUA AKMAL CAPY SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=628885960825:+62 888-5960-825\n' // GANTI NOMOR LU
+            + 'FN:Achill Admin\n' // NAMA OWNER BOT
+            + 'ORG:Creator SAKURA-BOT;\n' // KASIH CREDITS GUA AKMAL CAPY SU!!!
+            + 'TEL;type=CELL;type=VOICE;waid=6281316105119:+62 813-1610-5119\n' // GANTI NOMOR LU
             + 'END:VCARD'
 prefix = '.'
 blocked = []
@@ -2100,7 +2100,7 @@ starts()
 
 /*
 * THANGKS TO :
-*Akmal Capy
+*Achillboyy
 * XPTN
 * Fadhil Graphy
 * Alfa
