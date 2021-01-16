@@ -145,7 +145,7 @@ async function starts() {
 			client.chatRead (from)
 
 			mess = {
-				wait: '❬ WAIT ❭* _Sedang di Prosess...⏳_',
+				wait: '❬ WAIT ❭* _Sedang dalam proses!!*...⏳_',
 				success: '*❬ SUCCESS ❭* _Sudah jadi kak..._',
 				error: {
 					stick: '*Gagal, terjadi kesalahan saat mengkonversi gambar ke sticker*',
@@ -161,8 +161,8 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628885960825@s.whatsapp.net"] // GANTI NOMOR LU
-			const adminbotnumber = ["62895603685193@s.whatsapp.net"] // GANTI NOMOR LU
+			const ownerNumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
+			const adminbotnumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
 			const frendsowner = ["6289637595990@s.whatsapp.net"] // GAUSAH DIGANTI!!!
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
@@ -783,7 +783,7 @@ async function starts() {
 					break
                 case 'donasi':
 				case 'donate':
-					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa :* _0888-5960-825_\n*Gopay :* _0888-5960-825_', text, { quoted: mek })
+					client.sendMessage(from, 'Mau donasi ya om?✨\n\n اتَّقوا النَّارَ ولو بشقِّ تمرةٍ ، فمن لم يجِدْ فبكلمةٍ طيِّبةٍ\n_“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_\n\n*Pulsa :* _0813-1610-5119_\n*Gopay :* _0813-1610-5119_', text, { quoted: mek })
 					break
                 case 'tes':
                    client.sendMessage(from, 'ok', text, {quoted: mek})
@@ -822,7 +822,7 @@ async function starts() {
                          text: teks1,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628885960825@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6281316105119@s.whatsapp.net', options, text, {quoted: mek})
                     reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
                     break
                 case 'request':
@@ -835,7 +835,7 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628885960825@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6281316105119@s.whatsapp.net', options, text, {quoted: mek})
                     reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
                     break
 				case 'meme':
@@ -1653,7 +1653,7 @@ async function starts() {
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions('╔══✪〘 Mention All 〙✪══'+teks+'╚═〘 HARUKA BOT 〙', members_id, true)
+					mentions('╔══✪〘 Mention All 〙✪══'+teks+'╚═〘 SAKURA BOT 〙', members_id, true)
 					break
 				case 'clearall':
 					if (!isOwner) return reply('Kamu siapa?')
@@ -1677,7 +1677,7 @@ async function starts() {
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*[ HARUKA-BOT BROADCAST ]*\n\n${body.slice(4)}`)
+							sendMess(_.jid, `*[ SAKURA-BOT BROADCAST ]*\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
@@ -2047,8 +2047,8 @@ async function starts() {
                    teks = `toxic detected`
                    client.sendMessage(text)
                    break
-               case 'Akmal':
-                   teks = `aku pacarnya eh, BOT nya Akmal`
+               case 'Achill':
+                   teks = `aku pacarnya eh, BOT nya Achill`
                    client.sendMessage(text)
                    break
                case 'Kontol':
