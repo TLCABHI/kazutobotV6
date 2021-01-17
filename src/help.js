@@ -12,7 +12,7 @@ PERJUALKAN!!
 ┣━━━━°─⊱ *❬ INFORMASI BOT ❭* °━━━━━━┛
 ┃
 ┃⊱➥ *SAKURA-BOT*
-┃⊱➥ *V 6.1.2
+┃⊱➥ *V 6.1.2*
 ┃⊱➥ *JUMLAH USER:7631*
 ┃⊱➥ *JUMLAH MEMBER VVIP:1984*
 ┃⊱➥ *JUMLAH MEMBER PREMIUM:4381*
