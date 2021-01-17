@@ -34,14 +34,14 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}ocr* *PERBAIKAN*
 ┣⊱❥ *${prefix}ytsearch* *FAILED❌*
 ┣⊱❥ *${prefix}ytmp3* *FAILED❌*
-┣⊱❥ *${prefix}ytmp4* *FAILED❌*
+┣⊱❥ *${prefix}ytmp4* *SUCCES✅*
 ┣⊱❥ *${prefix}tiktok* *FAILED❌*
 ┣⊱❥ *${prefix}tiktokstalk* *FAILED❌*
 ┣⊱❥ *${prefix}fototiktok* *FAILED❌*
 ┣⊱❥ *${prefix}igstalk* *FAILED❌*
 ┣⊱❥ *${prefix}image* *FAILED❌*
 ┣⊱❥ *${prefix}pinterest* *FAILED❌*
-┣⊱❥ *${prefix}tts* *FAILED❌*
+┣⊱❥ *${prefix}tts id* *SUCCES✅*
 ┣⊱❥ *${prefix}tes* *SUCCES✅*
 ┣⊱❥ *${prefix}tep* *FAILED❌*
 ┣⊱❥ *${prefix}ttp* *PERBAIKAN*
@@ -52,10 +52,10 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}randomcat* *FAILED❌*
 ┣⊱❥ *${prefix}joox* *PERBAIKAN*
 ┣⊱❥ *${prefix}inu* *PERBAIKAN*
-┣⊱❥ *${prefix}elang* *SUCCES✅*
-┣⊱❥ *${prefix}unta* *SUCCES✅*
+┣⊱❥ *${prefix}elang* *FAILED❌*
+┣⊱❥ *${prefix}unta* *FAILED❌*
 ┣⊱❥ *${prefix}anjing* *SUCCES✅*
-┣⊱❥ *${prefix}babi* *SUCCES✅*
+┣⊱❥ *${prefix}babi* *FAILED❌*
 ┣⊱❥ *${prefix}playstore* *PERBAIKAN*
 ┣⊱❥ *${prefix}url2image* *PERBAIKAN*
 ┣⊱❥ *${prefix}kbbi* *PERBAIKAN*
@@ -65,7 +65,7 @@ PERJUALKAN!!
 ┣━━━━°─⊱ ❬ *CREATOR* ❭ °━━━━┓
 ┃
 ┣⊱❥ *${prefix}thunder*✅
-┣⊱❥ *${prefix}tahta*❌
+┣⊱❥ *${prefix}tahta*✅
 ┣⊱❥ *${prefix}glitch <teks|teks>*✅
 ┣⊱❥ *${prefix}phlogo <teks|teks>*✅
 ┣⊱❥ *${prefix}wolflogo <teks|teks>*✅
@@ -82,7 +82,7 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}water*👀
 ┣⊱❥ *${prefix}lionlogo <teks|teks>*❌
 ┣⊱❥ *${prefix}textscreen*👀
-┣⊱❥ *${prefix}text3d*👀
+┣⊱❥ *${prefix}text3d*✅
 ┣⊱❥ *${prefix}epep*👀
 ┣⊱❥ *${prefix}marvelogo <teks|teks>*👀
 ┣⊱❥ *${prefix}snow <teks|teks>*👀
@@ -92,17 +92,17 @@ PERJUALKAN!!
 ┃
 ┣⊱❥ *${prefix}truth*✅
 ┣⊱❥ *${prefix}dare*✅
-┣⊱❥ *${prefix}tebakgambar*✅
+┣⊱❥ *${prefix}tebakgambar*❌
 ┣⊱❥ *${prefix}family100*❌
-┣⊱❥ *${prefix}caklontong*✅
+┣⊱❥ *${prefix}caklontong*
 ┣⊱❥ *${prefix}game*✅
 ┣⊱❥ *${prefix}primbonjodoh*👀
 ┣⊱❥ *${prefix}ramaljadian*✅
 ┣⊱❥ *${prefix}mlherolist*👀
 ┣⊱❥ *${prefix}bucin*✅
 ┣⊱❥ *${prefix}persengay*👀
-┣⊱❥ *${prefix}ramalhp <nomor>*✅
-┣⊱❥ *${prefix}ceckjodoh*✅
+┣⊱❥ *${prefix}ramalhp <nomor>*👀
+┣⊱❥ *${prefix}ceckjodoh*👀
 ┃
 ┣━━━━━°─⊱ ❬ *ANIME* ❭ °━━━━━┓
 ┃
@@ -134,20 +134,20 @@ PERJUALKAN!!
 ┣━━°─⊱ ❬ *INFO&EDUKASI* ❭ °━━━┓
 ┃
 ┣⊱❥ *${prefix}infogc*✅
-┣⊱❥ *${prefix}infogempa*✅
+┣⊱❥ *${prefix}infogempa*👀
 ┣⊱❥ *${prefix}infogithub*👀
 ┣⊱❥ *${prefix}infocuaca*👀
-┣⊱❥ *${prefix}infonomor*✅
+┣⊱❥ *${prefix}infonomor*👀
 ┣⊱❥ *${prefix}infomobil*👀
 ┣⊱❥ *${prefix}infomotor*👀
 ┣⊱❥ *${prefix}grupinfo*👀
 ┣⊱❥ *${prefix}lirik*👀
 ┣⊱❥ *${prefix}quotes*✅
-┣⊱❥ *${prefix}cerpen*✅
+┣⊱❥ *${prefix}cerpen*👀
 ┣⊱❥ *${prefix}chord*👀
 ┣⊱❥ *${prefix}wiki*❌
 ┣⊱❥ *${prefix}brainly*👀
-┣⊱❥ *${prefix}resepmasakan*✅
+┣⊱❥ *${prefix}resepmasakan*👀
 ┣⊱❥ *${prefix}map*👀
 ┃
 ┣━━━━━°─⊱ ❬ *GRUP* ❭ °━━━━━━┓
@@ -183,7 +183,7 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}nsfwtrap*❌
 ┣⊱❥ *${prefix}randomhentai*❌
 ┣⊱❥ *${prefix}hentai*❌
-┣⊱❥ *${prefix}indohot*❌
+┣⊱❥ *${prefix}indohot*✅
 ┃
 ┣━━━━°─⊱ ❬ *KERANG* ❭ °━━━━━┓
 ┃
@@ -210,7 +210,7 @@ PERJUALKAN!!
 ┣⊱❥ *${prefix}block*✅
 ┣⊱❥ *${prefix}unblock*✅
 ┣⊱❥ *${prefix}clearall*✅
-┣⊱❥ *${prefix}clone*✅👀
+┣⊱❥ *${prefix}clone*✅
 ┣⊱❥ *${prefix}getses*👀
 ┣⊱❥ *${prefix}setpp*❌
 ┣⊱❥ *${prefix}setpp*✅
