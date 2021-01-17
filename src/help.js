@@ -25,7 +25,7 @@ PERJUALKAN!!
 ┃⊱➥ *Owner:Achillboyy*             
 ┃⊱➥ *PERHATIKAN TANDA²YG DI BAWAH INI ✅(BISA DIGUNAKAN) ❌(TIDAK BISA DI GUNAKAN) 👀(PERBAIKAN)*
 ┃⊱➥ *BARU SAJA DI UPDATE!!*
-┃⊱➥ *TRAKHIR DI UPDATE (01-18*-2021/02:12)
+┃⊱➥ *TRAKHIR DI UPDATE (01-17*-2021/14:30)
 ┣━━°─⊱ ❬ *TENTANG BOT* ❭ °━━┓
 ┃
 ┣⊱➥ *${prefix}info*
