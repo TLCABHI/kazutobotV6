@@ -242,6 +242,28 @@ PERJUALKAN!!
 ┃BOT INI MASIH DALAM PERBAIKAN!
 ┃JADI TDK SEMUA FITUR BISA DI
 ┃GUNAKAN!!KECUALI MEMBER VVIP/PREMIUM
+┃
+┃ ︵               ︵ 
+    (        ╲       /       /
+      ╲          ╲/       /
+           ╲          ╲  /
+          ╭ ͡   ╲           ╲
+     ╭ ͡   ╲        ╲       ﾉ
+╭ ͡   ╲        ╲         ╱
+ ╲       ╲          ╱
+      ╲         ╱
+          ︶
+┃ 
+┃
+┃
+┃
+┃ Undang sakurabot ke grup? 
+┃ Donasi dulu ya, paket data + batre hp juga ga gratis njir😆><
+┃ Contact: https://wa.me/6281316105119
+┃
+┃
+┃ https://t.me/sakurabott
+┃ LINK GRUP:https://chat.whatsapp.com/KqjxMiEJZ3T8xxeiL1gygC
 ┣━━━━ ─⊱ *❬ APA LO ❭* °━━━━━━⊱
 ⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⠿⢿⣶⣶⣦⣄⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣼⡿⠋⠁⠀⠀⠀⢀⣈⠙⢿⣷⡄⠀⠀
