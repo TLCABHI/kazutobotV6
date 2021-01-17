@@ -211,7 +211,7 @@ async function starts() {
 				case 'info':
 					me = client.user
 					uptime = process.uptime()
-					teks = `➽ *Nama Bot* : _${me.name}_\n➽ *Nomer Bot* : _@${me.jid.split('@')[0]}_\n➽ *prefix* : _${prefix}_\n➽ *Total Block* : _${blocked.length}_\n➽ *Aktif Sejak* : _${kyun(uptime)}_\n➽ *Instagram* : https://www.instagram.com/akmalokz\n➽ *YouTube* : coming soon\n➽ *Script By* : _Akmal Capy_ [Akmal]\n➽ *Note* : _Ini SC pribadi no minta SC_\n➽ *Sepecial Thangks To* :\n➽ _Allah SWT_ \n➽ _MahankBarBar_ \n➽ _Seluruh member *MyBot Team*_\n➽ _Akmal Capy_\n➽ _MahankBarbar_\n➽ _Affis_\n➽ _Anang_\n➽ _Bryan_\n➽ _Bagas_\n➽ _Ntaa_\n➽ _XP-TN_\n➽_YUKINIKO_\n_DLL_`
+					teks = `➽ *Nama Bot* : _${me.name}_\n➽ *Nomer Bot* : _@${me.jid.split('@')[0]}_\n➽ *prefix* : _${prefix}_\n➽ *Total Block* : _${blocked.length}_\n➽ *Aktif Sejak* : _${kyun(uptime)}_\n➽ *Instagram* :https://instagram.com/achillboyy._?igshid=mfekkirn3o4l\n➽ *YouTube* :GRATISAN SAJA\n➽ *Script By* : _Achill boyy_ [Achill]\n➽ *Note* : _Ini SC gratis!!_\n
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
