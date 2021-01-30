@@ -161,8 +161,8 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
-			const adminbotnumber = ["6281316105119@s.whatsapp.net"] // GANTI NOMOR LU
+			const ownerNumber = ["919074329903@s.whatsapp.net"] // GANTI NOMOR LU
+			const adminbotnumber = ["919074329903@s.whatsapp.net"] // GANTI NOMOR LU
 			const frendsowner = ["6281316105119@s.whatsapp.net"] // GAUSAH DIGANTI!!!
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
@@ -218,7 +218,7 @@ async function starts() {
 				case 'blocklist':
 					teks = 'This is list of blocked number :\n'
 					for (let block of blocked) {
-						teks += `~> @${block.split('@')[0]}\n`
+						teks += `> @${block.split('@')[0]}\n`
 					}
 					teks += `Total : ${blocked.length}`
 					client.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": blocked}})
