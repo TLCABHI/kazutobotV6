@@ -215,14 +215,14 @@ async function starts() {
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
-				case 'blocklist':
-					teks = 'This is list of blocked number :\n'
-					for (let block of blocked) {
-						teks += `> @${block.split('@')[0]}\n`
-					}
-					teks += `Total : ${blocked.length}`
-					client.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": blocked}})
-					break
+				
+					
+					
+						
+					
+					
+			
+
 				case 'ocr':
 					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
 						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
